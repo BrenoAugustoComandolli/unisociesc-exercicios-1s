@@ -1,2 +1,2 @@
-# unisociesc-exercicios-1s
-Atividades do primeiro semestre Unisociesc
+# Unisociesc Exercícios
+ Exercícios desenvolvidos em aula
